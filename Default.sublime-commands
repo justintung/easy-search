@@ -1,0 +1,4 @@
+[
+  { "caption": "Easy Search: Search selected text/word", "command": "easy_search" },
+  { "caption": "Easy Search: Search any", "command": "easy_search_any" }
+]
