@@ -7,7 +7,7 @@ Easy Search
 {
     "suffix": "", // 查询关键字前缀
     "prefix": "", // 查询关键字后缀
-    "searchbase": "http://www.easy.com/s?wd=" // 搜索基地址
+    "searchbase": "http://www.baidu.com/s?wd=" // 搜索基地址
 }
 ```
 ## 快捷键
