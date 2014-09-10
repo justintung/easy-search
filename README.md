@@ -48,3 +48,11 @@ Or you can download the package as a zip file [https://github.com/justintung/eas
     "searchbase": "http://dict.baidu.com/s?wd="
 }
 ```
+4.搜索 php.net document
+```json
+{
+    "suffix": "",
+    "prefix": "",
+    "searchbase": "http://cn2.php.net/manual-lookup.php?pattern="
+}
+```
