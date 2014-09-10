@@ -2,6 +2,14 @@ Easy Search
 改自 Google Search[https://github.com/nwjlyons/google-search]
 适用于Sublime Text 2/3.
 我不熟悉版权问题，我不宣称有版权(276887367@qq.com)
+##Install
+
+If your using the [Sublime Package Manger][2] hold down Ctrl+Shift+P and type
+`Package Control: Install Package`. Then search for `easy-search` and hit return.
+
+If your not using the package manager then go to your Sublime packages directory(Sublime Text/Packages) Then run this command `git clone https://github.com/justintung/easy-search.git`.
+
+Or you can download the package as a zip file [https://github.com/justintung/easy-search/archive/master.zip][3] then copy it into your Sublime packages directory.
 ## 配置
 ```json
 {
