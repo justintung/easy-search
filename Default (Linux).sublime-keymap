@@ -1,8 +1,8 @@
 [
     {
-        "keys": ["ctrl+alt+g"], "command": "easy_search"
+        "keys": ["ctrl+shift+g"], "command": "easy_search"
     },
     {
-        "keys": ["ctrl+shift+alt+g"], "command": "easy_search_any"
+        "keys": ["ctrl+alt+g"], "command": "easy_search_any"
     }
 ]
